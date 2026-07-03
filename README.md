@@ -105,6 +105,7 @@
 | [Umami](https://umami.is) | Simple, fast website analytics — privacy-focused, no cookies | MIT | [GitHub](https://github.com/umami-software/umami) |
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Security & Networking
 
